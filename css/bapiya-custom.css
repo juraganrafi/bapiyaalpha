@@ -1,0 +1,84 @@
+.brand {
+    text-align: center;
+    padding-top: : 4px;
+    color: #FF5733
+}
+
+.semboyan {
+    text-align: center;
+    padding-bottom: 4px;
+    color: #FF5733
+}
+
+.navbar-inverse {
+    background-color: #FF5733;
+    border-color: #FFFFFF;
+    color: white;
+}
+
+body {
+    font-family: 'Open Sans';
+    background-color: #FFFFFF;
+}
+
+.navbar-brand {
+    text-transform: uppercase;
+    font-weight: 900;
+    letter-spacing: 2px;
+}
+
+.navbar-nav {
+    text-transform: uppercase;
+    font-weight: 400;
+    text-align: center;
+    margin-left: 27%;
+    letter-spacing: 3px;
+}
+
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.content {
+    background-color: #ecf0f1;
+    color: black;
+    margin-left: 60px;
+    margin-right: 60px;
+    padding-right: auto;
+    padding-left: auto
+}
+
+.judul {
+    text-align: center;
+}
+
+.isi {
+    text-align: justify;
+    font-size: 16px;
+}
+
+.padd {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.fooder {
+    margin-bottom: 10px;
+    background-color: #FF5733;
+    border-color: #FFFFFF;
+    color: white;
+}
+
+.opsi {
+    margin: 10px;
+    margin-left: 420px;
+    margin-bottom: 90px;
+}
+
+.opsi2 {
+    margin: 10px;
+    margin-left: 420px;
+}
